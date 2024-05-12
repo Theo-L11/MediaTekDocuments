@@ -108,7 +108,7 @@ La documentation technique est disponible sous forme de fichier téléchargeable
 ## L'API REST
 L'accès à la BDD se fait à travers une API REST protégée par une authentification basique.<br>
 Le code de l'API se trouve ici :<br>
-https://github.com/marcbernad/ApiMediatek<br>
+https://github.com/Theo-L11/rest_mediatekdocuments<br>
 avec toutes les explications pour l'utiliser (dans le readme).
 ## Installation de l'application
 Télécharger le fichier setup.msi dans le dépôt, le lancer et suivre les indications d'installation.
